@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9627e643-9947-4820-8959-bd5dbbbb9023" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/templates/base/BaseTemplate.mocks.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/templates/base/BaseTemplate.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/templates/base/BaseTemplate.stories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/templates/base/BaseTemplate.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +61,8 @@
       <option name="presentableId" value="Default" />
       <updated>1669197195393</updated>
       <workItem from="1669197197666" duration="616000" />
-      <workItem from="1669197878412" duration="3061000" />
+      <workItem from="1669197878412" duration="4224000" />
+      <workItem from="1669274306498" duration="363000" />
     </task>
     <servers />
   </component>
